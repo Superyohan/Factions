@@ -68,7 +68,7 @@ public class MConf extends Entity<MConf>
 	// -------------------------------------------- //
 	
 	// Don't you want "f" as the base command alias? Simply change it here.
-	public List<String> aliasesF = MUtil.list("f");
+	public List<String> aliasesF = MUtil.list("q");
 	
 	// -------------------------------------------- //
 	// WORLDS FEATURE ENABLED
